@@ -34,7 +34,7 @@ $cfg['timezone']='America/New_York';
 // $cfg['limitToCountries'][]='US';
 
 /*
- * Array of countries you do not wish to allow on the server. If you
+ * Array of countries you do not wish to allow on the server.
  * Values must correspond to the appropriate ISO Alpha-2 Code.
  */
 $cfg['countries'][]='BR';

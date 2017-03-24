@@ -5,7 +5,7 @@
  */
 
 /*
- * Requirements: php7.0-cli, ph7.0-curl, python 2.7
+ * Requirements: php7.0-cli, php7.0-curl, php7.0-xml
  */
 
 /*

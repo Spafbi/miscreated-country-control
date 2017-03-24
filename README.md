@@ -1,6 +1,14 @@
 # miscreated-country-control
 Limit access to your Miscreated game servers by player country of origin.
 
+## Requirements ##
+This has only been tested on Linux. This was developed using PHP 7.x - use anything else and your mileage may vary.
+
+### PHP requirements ###
+* php7.0-cli
+* php7.0-curl
+* php7.0-xml
+
 ## Notes ##
 * Copy `mis-cc-config.example.php` to `mis-cc-config.php` and configure as desired. Please pay attention to the config notes in that file.
 * The user running *miscreated-country-control* must have write permissions to the `miscreated-country-control` directory. A log file, `mis-cc-ip.log`, will be written to this location. This log file location will be added at a future date.

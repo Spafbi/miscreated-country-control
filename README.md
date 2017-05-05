@@ -1,5 +1,5 @@
 # UPDATE!!!
-New version coming, soon.
+New version coming, soon. The current version does not yet have kick/ban enabled, but this will be enabled along with new enhancements.
 
 # miscreated-country-control
 Limit access to your Miscreated game servers by player country of origin.
